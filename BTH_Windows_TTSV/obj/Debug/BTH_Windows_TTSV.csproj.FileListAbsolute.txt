@@ -1,0 +1,10 @@
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH_Windows_TTSV\BTH_Windows_TTSV\bin\Debug\BTH_Windows_TTSV.exe.config
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH_Windows_TTSV\BTH_Windows_TTSV\bin\Debug\BTH_Windows_TTSV.exe
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH_Windows_TTSV\BTH_Windows_TTSV\bin\Debug\BTH_Windows_TTSV.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH_Windows_TTSV\BTH_Windows_TTSV\obj\Debug\BTH_Windows_TTSV.csprojAssemblyReference.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH_Windows_TTSV\BTH_Windows_TTSV\obj\Debug\BTH_Windows_TTSV.Form1.resources
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH_Windows_TTSV\BTH_Windows_TTSV\obj\Debug\BTH_Windows_TTSV.Properties.Resources.resources
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH_Windows_TTSV\BTH_Windows_TTSV\obj\Debug\BTH_Windows_TTSV.csproj.GenerateResource.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH_Windows_TTSV\BTH_Windows_TTSV\obj\Debug\BTH_Windows_TTSV.csproj.CoreCompileInputs.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH_Windows_TTSV\BTH_Windows_TTSV\obj\Debug\BTH_Windows_TTSV.exe
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH_Windows_TTSV\BTH_Windows_TTSV\obj\Debug\BTH_Windows_TTSV.pdb
